@@ -1,1 +1,1 @@
-Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Shaorrran/dls-stuff/blob/master/[homework]knn.ipynb)
+Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Shaorrran/dls-stuff/blob/master/[homework]knn.ipynb)
