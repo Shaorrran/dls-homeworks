@@ -1,3 +1,5 @@
-Task 1 (KNN) Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Shaorrran/dls-stuff/blob/master/[homework]knn.ipynb)
+Task 1 (KNN) Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Shaorrran/dls-stuff/blob/master/task1/[homework]knn.ipynb)
 
-Task 2 (Logistic Regression) Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Shaorrran/dls-stuff/blob/master/[homework]linear_models_fall_2021.ipynb)
+Task 2 (Logistic Regression) Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Shaorrran/dls-stuff/blob/master/task2/[homework]linear_models_fall_2021.ipynb)
+
+Task 3 (Churn) Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Shaorrran/dls-stuff/blob/master/task3/churn.ipynb)
