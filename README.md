@@ -4,4 +4,4 @@ Task 2 (Logistic Regression) Colab link: [![Open In Colab](https://colab.researc
 
 Task 3 (Churn) Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Shaorrran/dls-stuff/blob/master/task3/churn.ipynb)
 
-Task 4 (Dense and Convolution Networks) Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Shaorrran/dls-stuff/blob/master/task4/%5Bhomework%5Ddense_and_convolutional_nn.ipynb)
+Task 4 (Dense and Convolution Networks) Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Shaorrran/dls-stuff/blob/master/task4/%5Bhomework%5Ddense_and_convolutional_nn.ipynb)
