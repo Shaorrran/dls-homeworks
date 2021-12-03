@@ -8,4 +8,4 @@ Task 4 (Dense and Convolution Networks) Colab link: [![Open In Colab](https://co
 
 Task 5 (The Simpsons) Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shaorrran/dls-stuff/blob/master/task5/simpsons.ipynb)
 
-Task 6 (Semantic Segmentation) Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shaorrran/dls-stuff/blob/master/task6/<STUB>)
+Task 6 (Semantic Segmentation) Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shaorrran/dls-stuff/blob/master/task6/[hw]semantic_segmentation.ipynb)
