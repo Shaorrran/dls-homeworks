@@ -11,3 +11,5 @@ Task 5 (The Simpsons) Colab link: [![Open In Colab](https://colab.research.googl
 Task 6 (Semantic Segmentation) Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shaorrran/dls-stuff/blob/master/task6/[hw]semantic_segmentation.ipynb)
 
 Task 7 (Autoencoders) Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shaorrran/dls-stuff/blob/master/task7/[hw]autoencoders.ipynb)
+
+Task 8 (Generative Adversarial Networks) Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shaorrran/dls-stuff/blob/master/task8/[hw]gan.ipynb)
